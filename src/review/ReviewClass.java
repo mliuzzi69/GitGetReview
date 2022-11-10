@@ -12,4 +12,8 @@ public class ReviewClass {
 		System.out.println("This method is on Review Session branch");
 	}
 
+	public void test2() {
+		System.out.println("This method is 2nd Review");
+	}
+	
 }
